@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>download_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>motion_sensor_active_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>play_arrow_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>stop_FILL0_wght400_GRAD0_opsz48.png</file>
+  </qresource>
+</RCC>
