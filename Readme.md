@@ -31,7 +31,8 @@ This is a Car parking space Detection Program based on Yolov5 model with small c
 ## **Confusion Matrix**
 <img src="https://github.com/yousefturin/parking-DE/assets/94796673/30b5dfa6-9c5d-4dd5-a31e-17b75a560e01">
 ## **Labels**
-<img src="https://github.com/yousefturin/parking-DE/assets/94796673/6df67679-6c81-4d4b-851c-ed0ac43682d8">
+<img src="https://github.com/yousefturin/Parking-DE/assets/94796673/98b014e3-9808-4219-9ad3-b531fa3a459c">
+
 ## **Labels Correlogram**
 <img src="https://github.com/yousefturin/parking-DE/assets/94796673/0aca63bd-2edf-4ded-a75a-6358c21c8206">
 ## **Results**
