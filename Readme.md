@@ -21,10 +21,10 @@ This is a Car parking space Detection Program based on Yolov5 model with small c
 <img src="https://github.com/yousefturin/Parking-DE/assets/94796673/a654b5a3-0ce5-46cb-aff8-c2559cee9be0">
 # GUI **Detecting View**
 <img src="https://github.com/yousefturin/Parking-DE/assets/94796673/d93626b4-547b-40f6-bdf8-c3d8226d901f">
-#Graphs 
-##**P_Curve**
+# Graphs 
+## **P_Curve**
 <img src="https://github.com/yousefturin/Parking-DE/assets/94796673/abab308f-0e3b-4b54-ba1f-dfc101cedf46">
-##**PR_Curve**
+## **PR_Curve**
 <img src="https://github.com/yousefturin/Parking-DE/assets/94796673/15fd94e2-704f-46ad-ab08-fec7d0fa9999">
 ## **R_Curve**
 <img src="https://github.com/yousefturin/Parking-DE/assets/94796673/c17d112c-0c5f-4f3e-a16b-fe165946dd28">
